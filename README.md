@@ -14,13 +14,3 @@ from banks to news websites, and present a major challenge to making sure people
 ### chmod +x ddos-attack.py
 
 ### python ddos-attack.py
-
-### ScreenShot 
-
-### YouTube channel
-
-https://www.youtube.com/channel/UCCgy7i_A5yhAEdY86rPOinA
-
-### Video Tutorial
-
-https://www.youtube.com/watch?v=-e3Iia_P7rA
